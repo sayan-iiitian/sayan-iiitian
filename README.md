@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayaniiitian" target="blank"><img src="https://img.shields.io/twitter/follow/sayaniiitian?logo=twitter&style=for-the-badge" alt="sayaniiitian" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sayan-iiitian.github.io/portfolio/](https://sayan-iiitian.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/sayan-iiitian](https://github.com/sayan-iiitian)
 
 - 📫 How to reach me **sayan191102@gmail.com**
 
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-iiitian&show_icons=true&locale=en" alt="sayan-iiitian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-iiitian&" alt="sayan-iiitian" /></p>
+
