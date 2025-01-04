@@ -19,7 +19,8 @@
 <a href="https://linkedin.com/in/sayan-mandal-38b05b25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-mandal-38b05b25b" height="30" width="40" /></a>
 <a href="https://fb.com/sayan mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan mandal" height="30" width="40" /></a>
 <a href="https://instagram.com/rock_with_iiitian_sayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rock_with_iiitian_sayan" height="30" width="40" /></a>
-<a href="https://discord.gg/3658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3658" height="30" width="40" /></a>
+<a href="http://discordapp.com/users/1041725755106791434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3658" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/3658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3658" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
