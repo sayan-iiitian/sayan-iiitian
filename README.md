@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **FastAPI, Flask, LangChain, SpringBoot.**
 
-- 📫 How to reach me: [Linktree](https://linktr.ee/sayan_m19)
+- 📫 How to reach me : [Linktree](https://linktr.ee/sayan_m19)
 
-- 📄 Know about my experiences: [Portfolio](https://sayan-mandal-7nis7mo.gamma.site/)
+- 📄 Know about my experiences : [Portfolio](https://sayan-mandal-7nis7mo.gamma.site/)
 
 - ⚡ Fun fact **I think I am techie outside, confused inside (Coding hard, but forgetting charger.🔋)**
 
