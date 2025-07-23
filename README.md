@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[Twitter](https://x.com/Sayan_M19)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayaniiitian" height="30" width="40" /></a>
-<a href="[Linkedin](https://www.linkedin.com/in/sayan-mandal-38b05b25b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-mandal-38b05b25b" height="30" width="40" /></a>
-<a href="[Facebook](https://www.facebook.com/sayan.mandal.225250/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan mandal" height="30" width="40" /></a>
-<a href="[Instagram](https://www.instagram.com/rock_with_iiitian_sayan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rock_with_iiitian_sayan" height="30" width="40" /></a>
-<a href="[Discord](http://discordapp.com/users/1041725755106791434)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3658" height="30" width="40" /></a>
+<a href="[https://x.com/Sayan_M19](https://x.com/Sayan_M19)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayaniiitian" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/sayan-mandal-38b05b25b/](https://www.linkedin.com/in/sayan-mandal-38b05b25b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-mandal-38b05b25b" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/sayan.mandal.225250/](https://www.facebook.com/sayan.mandal.225250/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan mandal" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/rock_with_iiitian_sayan](https://www.instagram.com/rock_with_iiitian_sayan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rock_with_iiitian_sayan" height="30" width="40" /></a>
+<a href="[http://discordapp.com/users/1041725755106791434](http://discordapp.com/users/1041725755106791434)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3658" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/3658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3658" height="30" width="40" /></a> -->
 </p>
 
